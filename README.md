@@ -1,6 +1,7 @@
 # LightingTalk
 
 Base: Python 3.9.7
+File Type: JupyterNotebook
 
 1. Download entire folder to run demo
 
