@@ -1,5 +1,7 @@
 # LightingTalk
 
+Base: Python 3.9.7
+
 1. Download entire folder to run demo
 
 2. Open main.py.ipynb
