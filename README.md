@@ -6,4 +6,4 @@
     - To run program, click run-all twice (for some reason code fails the first run-all)
     - Restart the kernel if you want to re-run the app (otherwise, the original interface will not clear and the new interface will overlay on top of original)
 
-3. Make sure .kv file is in the folder 
+Note: Make sure all files are in the folder and callable. Otherwise, the GUI window will be empty or the code will fail. 
